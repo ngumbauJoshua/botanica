@@ -1,0 +1,13 @@
+.footer-grocery-02 {
+	.rbb_contact_shortcode_address,
+	.rbb_contact_shortcode_email {
+		color: #fff;
+	}
+}
+@media (max-width: 1023px) {
+	.footer-grocery-02 {
+		.footer-logo {
+			order: -1;
+		}
+	}
+}

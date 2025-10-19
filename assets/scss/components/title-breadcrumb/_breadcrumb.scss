@@ -1,0 +1,13 @@
+.rbb-breadcrumb {
+	color: var(--rbb-general-link-color);
+	a {
+		color: var(--rbb-general-link-color);
+		&:hover {
+			color: var(--rbb-general-link-hover-color);
+		}
+	}
+	.delimiter {
+		font-size: 7px;
+		font-weight: 700;
+	}
+}
